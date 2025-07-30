@@ -58,3 +58,18 @@ Total Quantity Sold: =sumif(C2:C11,J2,D2:D11)
 
 
 Completed.
+
+| Description           | Formula                              |
+|-----------------------|------------------------------------|
+| Total Sales           | `=SUM(F2:F11)`                     |
+| Average Sale          | `=AVERAGE(F2:F11)`                 |
+| High Sales Count      | `=COUNTIF(G2:G11, "High Sale")`    |
+| High Sales Total      | `=SUMIF(G2:G11, "High Sale", E2:E11)` |
+| Max Sale              | `=MAX(F2:F11)`                     |
+| Min Sale              | `=MIN(F2:F11)`                     |
+| Median Sale           | `=MEDIAN(F2:F11)`                  |
+| Mode of Sale Amount   | `=IFNA(MODE(F2:F11), "No Mode Found")` |
+| Total Quantity Sale   | `=SUM(D2:D11)`                     |
+| Total Sales By Seller | `=SUMIF(C2:C11, J2, F2:F11)`        |
+| Total Quantity Sold   | `=SUMIF(C2:C11, J2, D2:D11)`        |
+
