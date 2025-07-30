@@ -5,7 +5,7 @@ This project analyzes basic sales data using Google Sheets. It includes key metr
 
 This is a basic **sales analysis project** done in **Google Sheets** to understand key formulas, data formatting, and dashboards.
 
-👉 [https://docs.google.com/spreadsheets/d/1JJnm-A-2h19ME75FgPVakAsbSXQQ67JaFcceIkErc0Y/edit?usp=sharing)
+👉 [https://docs.google.com/spreadsheets/d/1JJnm-A-2h19ME75FgPVakAsbSXQQ67JaFcceIkErc0Y/edit?usp=sharing]
 
 ---
 
