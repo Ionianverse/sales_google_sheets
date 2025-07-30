@@ -34,31 +34,6 @@ In this project, I practiced and applied the following skills:
 
 ## 📌 Key Formulas Used
 
-Total Sales: =sum(F2:F11)
-
-Average Sale: =AVERAGE(F2:F11)
-
-High Sales Count: =countif(G2:G11, "High Sale")
-
-High Sales Total: =sumif(G2:G11,"High Sale",E2:E11)
-
-Max Sale: =MAX(F2:F11)
-
-Min Sale: =MIN(F2:F11)
-
-Median Sale: =MEDIAN(F2:F11)
-
-Mode of Sale Amount: =IFNA(MODE(F2:F11),"No Mode Found")
-
-Total Quantity Sale: =sum(D2:D11)
-
-Total Sales By Seller: =sumif(C2:C11,J2,F2:F11)
-
-Total Quantity Sold: =sumif(C2:C11,J2,D2:D11)
-
-
-Completed.
-
 | Description           | Formula                              |
 |-----------------------|------------------------------------|
 | Total Sales           | `=SUM(F2:F11)`                     |
@@ -73,3 +48,4 @@ Completed.
 | Total Sales By Seller | `=SUMIF(C2:C11, J2, F2:F11)`        |
 | Total Quantity Sold   | `=SUMIF(C2:C11, J2, D2:D11)`        |
 
+Completed.
